@@ -28,12 +28,16 @@ Efficiency: Highlight the low transaction fees and fast transaction times offere
 **Benefits of Using USDso:**
 
 **Reduced Volatility:** Unlike other cryptocurrencies, USDso provides a stable value, reducing the risk of price fluctuations.
+
 **Accessibility:** USDso is easily accessible to users worldwide, offering a reliable means of transacting value.
+
 
 **Future Plans:**
 
 **Development Goals:** To expand the use of USDso, we have plans for potential partnerships and new features that we will unveil in the future.
+
 **Community Participation:** Know that you all share in USDso and you are all part of the USDso family.
+
 
 **Conclusion:**
 
